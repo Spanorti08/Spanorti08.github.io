@@ -2,6 +2,9 @@
 title: "Data Sceince Portfolio"
 ---
 
-This is a Quarto website.
+# Hello, I'm Norton👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am currently a student in the UBC Master of Data Science program.  
+My interests include data visualization, reproducible workflows, and applied statistics.  
+
+This website will be my portfolio to share projects, labs, and reflections from my journey in data science.
